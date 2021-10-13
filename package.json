@@ -1,0 +1,22 @@
+{
+  "name": "module-9-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rddavis1389/module-9-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rddavis1389/module-9-challenge/issues"
+  },
+  "homepage": "https://github.com/Rddavis1389/module-9-challenge#readme",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  }
+}
