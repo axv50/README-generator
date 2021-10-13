@@ -17,4 +17,10 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
+Git Hub Repo:
+https://github.com/axv50/README-generator
+
+Working Site:
+https://axv50.github.io/README-generator/
+
 I worked with Randolf Davis
