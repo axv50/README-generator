@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rddavis1389/module-9-challenge.git"
+    "url": "https://github.com/axv50/README-generator"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Rddavis1389/module-9-challenge/issues"
+    "url": "https://github.com/axv50/README-generator"
   },
-  "homepage": "https://github.com/Rddavis1389/module-9-challenge#readme",
+  "homepage": "https://axv50.github.io/README-generator/",
   "dependencies": {
     "inquirer": "^8.1.5"
   }
